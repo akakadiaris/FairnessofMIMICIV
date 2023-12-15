@@ -1,5 +1,5 @@
-# FairnessOfMIMICIV
-Files for the Advanced Machine Learning in Healthcare and Medicine final paper entitled "Evaluating the Fairness of the MIMIC-IV Dataset and a Baseline Algorithm: Application to ICU Length of Stay Prediction".
+# Evaluating the Fairness of the MIMIC-IV Dataset and a Baseline Algorithm: Application to ICU Length of Stay Prediction
+Files for the Advanced Machine Learning in Healthcare and Medicine (https://reaim-lab.github.io/binf4008/) final project paper. 
 
 Abstract: 
 This paper uses the MIMIC-IV dataset to examine the fairness and bias in an XGBoost binary classification model predicting the Intensive Care Unit (ICU) length of stay (LOS). Highlighting the critical role of the ICU in managing critically ill patients, the study addresses the growing strain on ICU capacity. It emphasizes the significance of LOS prediction for resource allocation. The research reveals class imbalances in the dataset across demographic attributes and employs data preprocessing and feature extraction. While the XGBoost model performs well overall, disparities emerge across insurance and race categories, underscoring the need for tailored assessments and continuous monitoring. The paper concludes with recommendations for mitigating biases, emphasizing transparency, fairness-aware machine learning techniques, and collaborative efforts among healthcare professionals and data scientists.
